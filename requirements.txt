@@ -6,3 +6,4 @@ seaborn
 streamlit
 shap
 xgboost
+category_encoders
